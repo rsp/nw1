@@ -213,43 +213,6 @@ Node.js Certified Developer (NCD) Program
 -
 https://foundation.nodejs.org/resources/certification
 
-Editors
-=
-https://github.com/rsp/info/blob/master/text-editors.md
-
-Classic
--
-### Vim
-http://www.vim.org/
-
-### Emacs
-https://www.gnu.org/software/emacs/
-
-Modern
--
-### Sublime Text
-https://www.sublimetext.com/
-
-### Atom
-https://atom.io/
-
-### Brackets
-http://brackets.io/
-
-### Visual Studio Code
-https://code.visualstudio.com/
-
-Virtualization
-=
-
-VirtualBox
--
-https://www.virtualbox.org/
-
-Vagrant
--
-https://www.vagrantup.com/
-
 Language Tools
 =
 
@@ -371,6 +334,59 @@ https://jsbin.com/
 CodePen
 -
 https://codepen.io/
+
+Installing Node
+=
+
+Main option
+-
+https://nodejs.org/en/
+
+Downloads website
+-
+https://nodejs.org/en/download/
+
+Custom installation tutorial
+-
+https://gist.github.com/rsp/edf756a05b10f25ee305cc98a161876a
+
+Virtualization
+=
+
+VirtualBox
+-
+https://www.virtualbox.org/
+
+Vagrant
+-
+https://www.vagrantup.com/
+
+Editors
+=
+https://github.com/rsp/info/blob/master/text-editors.md
+
+Classic
+-
+### Vim
+http://www.vim.org/
+
+### Emacs
+https://www.gnu.org/software/emacs/
+
+Modern
+-
+### Sublime Text
+https://www.sublimetext.com/
+
+### Atom
+https://atom.io/
+
+### Brackets
+http://brackets.io/
+
+### Visual Studio Code
+https://code.visualstudio.com/
+
 
 [github-follow-url]: https://github.com/rsp
 [github-follow-img]: https://img.shields.io/github/followers/rsp.svg?style=social&label=Follow
