@@ -27,17 +27,42 @@ https://pocztarski.com/
 Evented I/O for V8 JavaScript
 =
 
-Original Node.js presentation by Ryan Dahl
+In 2009 - an idea
 -
+### Original Node.js presentation by Ryan Dahl
+
 [![](https://i.ytimg.com/vi/ztspvPYybIY/hqdefault.jpg)](https://www.youtube.com/watch?v=ztspvPYybIY&t=8s)
 
 https://www.youtube.com/watch?v=ztspvPYybIY&t=8s
+
+In 2018 - 18 billion monthly package downloads
+-
+https://www.npmjs.com/
+
+### 600,000+ Packages
+### 800,000,000+ Downloads per Day
+### 4,000,000,000+ Download per Week
+### 18,000,000,000+ Download per Month
+
+Why
+=
 
 Apache vs nginx concurrency benchmark
 -
 https://blog.webfaction.com/2008/12/a-little-holiday-present-10000-reqssec-with-nginx-2/
 
 [![](https://blog.webfaction.com/wp-content/uploads/2008/12/nginx-apache-memory.png)](https://blog.webfaction.com/2008/12/a-little-holiday-present-10000-reqssec-with-nginx-2/)
+
+How
+=
+
+V8
+-
+https://developers.google.com/v8/
+
+libuv
+-
+https://libuv.org/
 
 Node.js
 -
@@ -47,10 +72,54 @@ Node.js LTS Release Schedule
 -
 https://github.com/nodejs/Release#release-schedule
 
-Node.js Certified Developer (NCD) Program
--
-https://foundation.nodejs.org/resources/certification
+Language
+=
 
+Mocha, LiveScript, JavaScript, ECMAScript
+-
+10 days in 1995
+
+Functions
+-
+### Lambda calculus - 1930s
+
+https://en.wikipedia.org/wiki/Lambda_calculus
+
+### Lisp - 1958
+
+https://en.wikipedia.org/wiki/Lisp_(programming_language)
+
+### Scheme - 1970
+
+https://en.wikipedia.org/wiki/Scheme_(programming_language)
+
+Objects
+-
+### Simula - 1965
+
+https://en.wikipedia.org/wiki/Simula
+
+### Smalltalk - 1972
+
+https://en.wikipedia.org/wiki/Smalltalk
+
+Prototypes
+-
+### Self - 1987
+
+https://en.wikipedia.org/wiki/Self_(programming_language)
+
+Events
+-
+### HyperCard - 1987
+
+https://en.wikipedia.org/wiki/HyperCard
+
+ECMA-262
+-
+Standard ECMA-262 - ECMAScript Language Specification 
+
+https://www.ecma-international.org/publications/standards/Ecma-262.htm
 
 TC39
 -
@@ -58,11 +127,25 @@ Ecma International, Technical Committee 39 - ECMAScript
 
 https://github.com/tc39
 
+MDN Web Docs
+-
+The MDN Web Docs (previously Mozilla Developer Network (MDN), previously Mozilla Developer Center (MDC), a.k.a. Devmo)
+
+https://developer.mozilla.org/bm/docs/Web/JavaScript
+
 node.green
 -
 Node.js ECMAScript compatibility tables 
 
 https://node.green/
+
+Node.js Documentation
+-
+https://nodejs.org/api/index.html
+
+Node.js Certified Developer (NCD) Program
+-
+https://foundation.nodejs.org/resources/certification
 
 Virtualization
 =
@@ -85,25 +168,6 @@ https://babeljs.io/
 TypeScript
 -
 https://www.typescriptlang.org/
-
-Docs
-=
-
-ECMA-262
--
-Standard ECMA-262 - ECMAScript Language Specification 
-
-https://www.ecma-international.org/publications/standards/Ecma-262.htm
-
-MDN Web Docs
--
-The MDN Web Docs (previously Mozilla Developer Network (MDN), previously Mozilla Developer Center (MDC), a.k.a. Devmo)
-
-https://developer.mozilla.org/bm/docs/Web/JavaScript
-
-Node.js Documentation
--
-https://nodejs.org/api/index.html
 
 Style guides
 =
@@ -180,42 +244,42 @@ More ESLint Configs:
 -
 https://www.npmjs.com/browse/keyword/eslintconfig
 
-
-Tech
-=
-
-V8
--
-https://developers.google.com/v8/
-
-libuv
--
-https://libuv.org/
-
 Cert
-
+-
 Node.js Certified Developer (NCD) Program
 https://foundation.nodejs.org/resources/certification
 
 
+Node in the browser
+=
 
-Quick testing
+REPL.IT
 -
+https://repl.it/languages/nodejs
 
-### Node specific
+RunKit
+-
+https://runkit.com/
 
-- https://repl.it/languages/nodejs
+JS in the browser
+=
 
-- https://runkit.com/
+Browser
+-
+### Ctrl + Shift + J (Windows / Linux)
+### Cmd + Opt + J (Mac)
 
-### General JavaScript
+JSFiddle
+-
+https://jsfiddle.net/
 
-CodePen https://codepen.io/
+JS Bin
+-
+https://jsbin.com/
 
-JSFiddle https://jsfiddle.net/
-
-JS Bin https://jsbin.com/
-
+CodePen
+-
+https://codepen.io/
 
 [github-follow-url]: https://github.com/rsp
 [github-follow-img]: https://img.shields.io/github/followers/rsp.svg?style=social&label=Follow
@@ -224,5 +288,3 @@ JS Bin https://jsbin.com/
 [stackoverflow-url]: https://stackoverflow.com/users/613198/rsp
 [stackexchange-url]: https://stackexchange.com/users/303952/rsp
 [stackexchange-img]: https://stackexchange.com/users/flair/303952.png
-
-
