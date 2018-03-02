@@ -16,7 +16,7 @@ https://infullmobile.com/
 About me
 =
 
-[<img src="https://stackexchange.com/users/flair/303952.png" height="116">][stackoverflow-url]
+[![][stackoverflow-img]][stackoverflow-url]
 
 Rafał Pocztarski is a Senior Node.js Developer and Team Leader at inFullMobile.
 
@@ -184,7 +184,6 @@ JSFiddle https://jsfiddle.net/
 JS Bin https://jsbin.com/
 
 
-stats-url]: http://npm-stat.com/charts.html?package=ifm-lw-r2-c
 [github-follow-url]: https://github.com/rsp
 [github-follow-img]: https://img.shields.io/github/followers/rsp.svg?style=social&label=Follow
 [twitter-follow-url]: https://twitter.com/intent/follow?screen_name=pocztarski
