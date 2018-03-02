@@ -7,31 +7,20 @@ Node.js Workshop by Rafał Pocztarski at inFullMobile.
 About us
 =
 
-<img src="https://infullmobile.com/wp-content/themes/ifm_simple/img/svg/logo_dark.svg" width="500">
+[<img src="https://infullmobile.com/wp-content/themes/ifm_simple/img/svg/logo_dark.svg" width="500">](https://infullmobile.com/)
 
 inFullMobile is a digital product design and development studio based in Warsaw, Poland.
 
 https://infullmobile.com/
 
-
-
 About me
 =
 
-[
+[<img src="https://stackexchange.com/users/flair/303952.png" height="116">][stackoverflow-url]
+
 Rafał Pocztarski is a Senior Node.js Developer and Team Leader at inFullMobile.
 
 https://pocztarski.com/
-
-<br/>
-
-[![Follow on GitHub][github-follow-img]][github-follow-url]
-[![Follow on Twitter][twitter-follow-img]][twitter-follow-url]
-
-<br/>
-
-[<img src="https://stackexchange.com/users/flair/303952.png" height"116">][stackoverflow-url]
-
 
 
 Evented I/O for V8 JavaScript
