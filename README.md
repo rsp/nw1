@@ -211,6 +211,32 @@ Node.js Certified Developer (NCD) Program
 -
 https://foundation.nodejs.org/resources/certification
 
+Editors
+=
+https://github.com/rsp/info/blob/master/text-editors.md
+
+Classic
+-
+### Vim
+http://www.vim.org/
+
+### Emacs
+https://www.gnu.org/software/emacs/
+
+Modern
+-
+### Sublime Text
+https://www.sublimetext.com/
+
+### Atom
+https://atom.io/
+
+### Brackets
+http://brackets.io/
+
+### Visual Studio Code
+https://code.visualstudio.com/
+
 Virtualization
 =
 
