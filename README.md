@@ -130,6 +130,7 @@ https://electronjs.org/
 ### Atom
 ### GitHub Desktop
 ### Microsoft Visual Studio Code
+### More on https://electronjs.org/apps
 
 Node.js LTS Release Schedule
 -
@@ -311,7 +312,6 @@ Cert
 -
 Node.js Certified Developer (NCD) Program
 https://foundation.nodejs.org/resources/certification
-
 
 Node in the browser
 =
