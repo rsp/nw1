@@ -29,6 +29,8 @@ Evented I/O for V8 JavaScript
 
 Original Node.js presentation by Ryan Dahl
 -
+[![](https://i.ytimg.com/vi/ztspvPYybIY/hqdefault.jpg)](https://www.youtube.com/watch?v=ztspvPYybIY&t=8s)
+
 https://www.youtube.com/watch?v=ztspvPYybIY&t=8s
 
 Apache vs nginx concurrency benchmark
