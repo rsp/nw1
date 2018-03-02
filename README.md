@@ -1,4 +1,4 @@
-Node Workshop - Lesson 1 - github.com/rsp/nw1
+Node Workshop - Lesson 1<br/>`github.com/rsp/nw1`
 =
 
 Lesson 1 of the
@@ -7,11 +7,12 @@ Node.js Workshop by Rafał Pocztarski at inFullMobile.
 About us
 =
 
+<img src="https://infullmobile.com/wp-content/themes/ifm_simple/img/svg/logo_dark.svg" width="900">
+
 inFullMobile is a digital product design and development studio based in Warsaw, Poland.
 
 https://infullmobile.com/
 
-https://infullmobile.com/wp-content/themes/ifm_simple/img/svg/logo_dark.svg
 
 
 About me
