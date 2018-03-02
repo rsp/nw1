@@ -11,6 +11,8 @@ About us
 
 **inFullMobile** is a digital product design and development studio based in Warsaw, Poland.
 
+Doing mobile, web, IoT and hardware projects from the idea to a final product.
+
 https://infullmobile.com/
 
 About me
@@ -21,8 +23,9 @@ About me
 
 Programming since 1986, commercially since 1996.
 
-He has been programming in Node since he watched the first Node.js presentation by Ryan Dahl in 2009 and enjoys writing about Node.js
-on Stack Overflow, holding a rare Gold Node.js Badge.
+Programming in Node since watching the first Node.js presentation by Ryan Dahl in 2009.
+
+Enjoys writing about Node.js on Stack Overflow, holding a rare Gold Node.js Badge.
 
 https://pocztarski.com/
 
