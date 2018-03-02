@@ -32,7 +32,7 @@ https://pocztarski.com/
 Evented I/O for V8 JavaScript
 =
 
-In 2009 - an idea
+Year 2009 - A Crazy Idea
 -
 ### Original Node.js presentation by Ryan Dahl
 
@@ -40,7 +40,7 @@ In 2009 - an idea
 
 https://www.youtube.com/watch?v=ztspvPYybIY&t=8s
 
-In 2018 - 18 billion monthly package downloads
+Year 2018 - 18 billion monthly package downloads
 -
 https://www.npmjs.com/
 
@@ -72,6 +72,64 @@ https://libuv.org/
 Node.js
 -
 https://nodejs.org/
+
+Why Today
+=
+
+Events
+-
+### Serverless is all about handling events
+### Node.js is all about handling events
+
+AWS Lambda
+-
+### First Node - Python and Java followed
+
+https://aws.amazon.com/lambda/
+
+https://aws.amazon.com/blogs/aws/run-code-cloud/
+
+Azure Functions
+-
+https://azure.microsoft.com/en-us/services/functions/
+
+https://azure.microsoft.com/en-us/blog/introducing-azure-functions/
+
+Serverless Framework
+-
+### First Node - Python, Java, Scala and C# followed
+
+https://serverless.com/
+
+600,000+ Libraries
+-
+https://www.npmjs.com/
+
+Everything is non-blocking
+-
+There are event loops in Perl, Python or Java but
+you can only use non-blocking libraries with them.
+
+Cross-Platform
+-
+### Linux
+### Unix
+### macOS
+### Solaris
+### FreeBSD
+### OpenBSD
+### Windows
+### webOS
+### NonStop
+
+Cross-Platform Desktop Apps
+-
+https://electronjs.org/
+
+### Slack
+### Atom
+### GitHub Desktop
+### Microsoft Visual Studio Code
 
 Node.js LTS Release Schedule
 -
