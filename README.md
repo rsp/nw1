@@ -1,5 +1,7 @@
-Node Workshop - Lesson 1<br/>`github.com/rsp/nw1`
+Node Workshop - Lesson 1
 =
+`github.com/rsp/nw1`
+-
 
 Lesson 1 of the
 Node.js Workshop by Rafał Pocztarski at inFullMobile.
