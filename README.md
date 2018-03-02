@@ -9,16 +9,17 @@ About us
 
 [<img src="https://infullmobile.com/wp-content/themes/ifm_simple/img/svg/logo_dark.svg" width="500">](https://infullmobile.com/)
 
-inFullMobile is a digital product design and development studio based in Warsaw, Poland.
+**inFullMobile** is a digital product design and development studio based in Warsaw, Poland.
 
 https://infullmobile.com/
 
 About me
 =
+[<img src="https://github.com/rsp.png" height="80">](https://pocztarski.com/)
 
-[![][stackoverflow-img]][stackoverflow-url]
+**Rafał Pocztarski** is a Senior Node.js Developer and Team Leader at inFullMobile.
 
-Rafał Pocztarski is a Senior Node.js Developer and Team Leader at inFullMobile.
+Programming since 1986, commercially since 1996.
 
 I've been using Node since I watched the first Node.js presentation by Ryan Dahl in 2009.
 
