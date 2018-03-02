@@ -1,6 +1,6 @@
 Node Workshop - Lesson 1
 =
-☞ `github.com/rsp/nw1`
+`=> github.com/rsp/nw1`
 -
 
 Lesson 1 of the
