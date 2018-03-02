@@ -21,7 +21,8 @@ About me
 
 Programming since 1986, commercially since 1996.
 
-I've been using Node since I watched the first Node.js presentation by Ryan Dahl in 2009.
+He has been programming in Node since he watched the first Node.js presentation by Ryan Dahl in 2009 and enjoys writing about Node.js
+on Stack Overflow, holding a rare Gold Node.js Badge.
 
 https://pocztarski.com/
 
