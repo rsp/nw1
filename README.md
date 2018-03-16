@@ -6,6 +6,8 @@ Node Workshop - Lesson 1
 Lesson 1 of the
 Node.js Workshop by Rafał Pocztarski at inFullMobile.
 
+* Next: https://github.com/rsp/nw2
+
 About us
 =
 
